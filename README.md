@@ -26,5 +26,5 @@
 - Desenvolvimento de Sistemas
 - Banco de Dados
 - Ciência de Dados
-- às vzs mobile*
+
 
