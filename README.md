@@ -25,6 +25,6 @@
 #### Interesses
 - Desenvolvimento de Sistemas
 - Banco de Dados
-- Ciência de Dados
+
 
 
