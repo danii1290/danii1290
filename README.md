@@ -2,8 +2,6 @@
 Meu nome é Daniela, graduanda em computação, interesses em front-end e entusiasta do flutter. Em meu tempo livre, geralmente gosto de aprender sobre novas tecnologias para expandir meu conhecimento em outras áreas de estudo, como análise de dados.
 
 <h2>Tech Stack</h2>
-
-#### Conhecimentos
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css">
