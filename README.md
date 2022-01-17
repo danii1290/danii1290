@@ -1,3 +1,4 @@
+<h1>Olá 🙋‍♀️</h1>
 <h2>Sobre mim</h2>
 Meu nome é Daniela, graduanda em computação, interesses em front-end e entusiasta do flutter. Em meu tempo livre, geralmente gosto de aprender sobre novas tecnologias para expandir meus conhecimentos.
 
