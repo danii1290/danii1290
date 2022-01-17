@@ -1,5 +1,5 @@
 <h2>Sobre mim</h2>
-Meu nome é Daniela, graduanda em computação, interesses em front-end e entusiasta do flutter. Em meu tempo livre, geralmente gosto de aprender sobre novas tecnologias para expandir meu conhecimento em outras áreas de estudo, como análise de dados.
+Meu nome é Daniela, graduanda em computação, interesses em front-end e entusiasta do flutter. Em meu tempo livre, geralmente gosto de aprender sobre novas tecnologias para expandir meus conhecimentos.
 
 <h2>Tech Stack</h2>
 <div>
